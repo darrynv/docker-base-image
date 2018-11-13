@@ -24,11 +24,11 @@ A work is in progress to convert, migrate and adapt some useful
 images around to CentOS-based distributions. The list below
 will be updated accordingly.
 
-* andrefernandes/docker-java7
-* andrefernandes/docker-tomcat7
-* andrefernandes/docker-mysql
-* andrefernandes/docker-redis
-* andrefernandes/docker-node
+* darrynvantonder/docker-java7
+* darrynvantonder/docker-tomcat7
+* darrynvantonder/docker-mysql
+* darrynvantonder/docker-redis
+* darrynvantonder/docker-node
 
 ### But I need RHEL images!
 
